@@ -11,3 +11,9 @@ This Todo app is built using React and Redux, providing users with a simple yet 
 - **Responsive Design:** Works seamlessly on desktop and mobile devices for convenient task management on the go.
 
 
+## Installation
+1. Clone the repository to your local machine:
+git clone https://github.com/your-username/todo-app.git
+
+2. Navigate to the project directory:
+3. Install dependencies using npm or yarn:
